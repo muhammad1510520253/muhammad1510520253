@@ -20,6 +20,7 @@ I was Born On 22th Of November 1997. I am a mobile developer with strong passion
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![codeigniter](https://img.shields.io/badge/-codeigniter-333333?style=flat&logo=codeigniter)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  <br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
