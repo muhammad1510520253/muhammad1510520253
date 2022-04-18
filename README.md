@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://1.bp.blogspot.com/-YiGBzUn90CA/Xsf4VsJ_2SI/AAAAAAAACJU/uJL3GfS00a4W9RSSKSirWpCV2jeYNDtewCK4BGAsYHg/WhatsApp%2BImage%2B2019-01-12%2Bat%2B19.08.08%2B%25281%2529.jpeg"></p>
-
 <h2> Hey there! I'm Muhammad.👋</h2>
 <p align="center">
 <a target="_blank" href="https://www.ketikanmd.my.id/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ketikanmd.my.id-blue?style=flat-square&logo=google-chrome"></a>
