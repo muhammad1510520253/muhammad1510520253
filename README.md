@@ -4,7 +4,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/muh97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad (Muh)-blue?style=flat-square&logo=linkedin"></a>
 <a target="_blank" href="https://www.instagram.com/Muh97_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Muh97__-blue?style=flat-square&logo=instagram"></a>
 </p>
-I was Born On 22th Of November 1997. I am a mobile developer with strong passion to learn new things.Currently I am interested and learning about Mobile Developer.
+I was Born On 22nd Of November 1997. I am a mobile developer with strong passion to learn new things.I am currently interested and learning about Mobile Developer.
 <br/>
 <br/>
 - 🌱 I’m currently learning Flutter<br>
